@@ -12,8 +12,6 @@ dependencies:
 - !!python/unicode
   'rise=4.0.0b1=py35_0'
 - !!python/unicode
-  'appnope=0.1.0=py35_0'
-- !!python/unicode
   'decorator=4.0.10=py35_0'
 - !!python/unicode
   'entrypoints=0.2.2=py35_0'
